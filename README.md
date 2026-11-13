@@ -114,7 +114,6 @@ Created to demonstrate knowledge of Slate, widget architecture, and UI developme
 
 ## Contact
 
-- **GitHub:** [organicFoil](https://github.com/organicFoil)
 - [Telegram](https://t.me/paperkut)
 - [Email](yakshiguloff@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/aleksandr-iakshigulov-59a03018a/)
